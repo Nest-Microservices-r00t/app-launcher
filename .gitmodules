@@ -13,3 +13,6 @@
 [submodule "auth-ms"]
 	path = auth-ms
 	url = https://github.com/Nest-Microservices-r00t/auth-microservice.git
+[submodule "k8s"]
+	path = k8s
+	url = https://github.com/Nest-Microservices-r00t/app-k8s.git
